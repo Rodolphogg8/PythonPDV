@@ -15,22 +15,22 @@ class User:
         self.mainw.iconbitmap(r'Rodolphogg8/PythonPDV/imagens/dolphin-logo-blue.jpg')
         self.mainframe = LabelFrame(self.mainw, width=800, height=140, bg="#f7f7f7")
         self.mainframe.place(x=330, y=120)
-        mi = PhotoImage(file="images/carrinho.png")
+        mi = PhotoImage(file="Rodolphogg8/PythonPDV/imagens/carrinho.png")
         mi = mi.subsample(a, b)
         self.aitems = Button(self.mainframe, text="ITEMS",bd=0,font="roboto 11 bold", image=mi)
         self.aitems.image = mi
         self.aitems.place(x=260, y=17)
-        mi = PhotoImage(file="images/nota.png")
+        mi = PhotoImage(file="Rodolphogg8/PythonPDV/imagens/nota.png")
         mi = mi.subsample(a,b)
         self.aitems = Button(self.mainframe, text="NOTAS",bd=0,font="roboto 11 bold", image=mi)
         self.aitems.image = mi
         self.aitems.place(x=62, y=17)
-        mi = PhotoImage(file="images/usertrocar.png")
+        mi = PhotoImage(file="Rodolphogg8/PythonPDV/imagens/usertrocar.png")
         mi = mi.subsample(a, b)
         self.changeuser = Button(self.mainframe, text="SAIR",bd=0,font="roboto 11 bold", image=mi)
         self.changeuser.image = mi
         self.changeuser.place(x=460, y=17)
-        mi = PhotoImage(file="images/sair.png")
+        mi = PhotoImage(file="Rodolphogg8/PythonPDV/imagens/sair.png")
         mi = mi.subsample(a, b)
         self.logout = Button(self.mainframe, text="FECHAR",bd=0,font="roboto 11 bold", image=mi)
         self.logout.image = mi
