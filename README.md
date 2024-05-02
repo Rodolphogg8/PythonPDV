@@ -1,5 +1,6 @@
 # PythonPDV
 # Classe para produtos
+# Curriculo https://sites.google.com/view/curriculorodolphoguilherme/p%C3%A1gina-inicial
 class Produto:
     def __init__(self, codigo, nome, preco):
         self.codigo = codigo
