@@ -3,6 +3,9 @@
 # Curriculo 
 https://sites.google.com/view/curriculorodolphoguilherme/p%C3%A1gina-inicial
 
+#LinkeIn
+https://www.linkedin.com/in/rodolpho-guilherme-viana-624602ba/
+
 # Classe para produtos
 class Produto:
     def __init__(self, codigo, nome, preco):
