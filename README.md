@@ -1,6 +1,7 @@
 # PythonPDV
 
-# Curriculo https://sites.google.com/view/curriculorodolphoguilherme/p%C3%A1gina-inicial
+# Curriculo 
+https://sites.google.com/view/curriculorodolphoguilherme/p%C3%A1gina-inicial
 
 # Classe para produtos
 class Produto:
