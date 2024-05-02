@@ -31,7 +31,7 @@ class Login:
             self.loginw.destroy()
             exit(0)                   
 
-  
+    #Aqui criar uma conexão com banco de dados
 
     def obj(self):
         self.loginframe=LabelFrame(self.loginw,bg="#D2B48C",height=400,width=300)
