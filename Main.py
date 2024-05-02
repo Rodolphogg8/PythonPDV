@@ -64,7 +64,7 @@ class Main(splash,Login,User):
             self.topframe=LabelFrame(self.mainw,width=1800,height=120,bg="#8A2BE2")
             self.topframe.place(x=0,y=0)
             
-            self.storelable=Label(self.topframe,text="     EM PYTHON TKINTER",bg="#8A2BE2",justify="center")
+            self.storelable=Label(self.topframe,text="EM PYTHON TKINTER",bg="#8A2BE2",justify="center")
             self.storelable.config(font="Roboto 30 bold",fg="snow")
             self.storelable.place(x=360,y=30)
             mi = PhotoImage(file="Rodolphogg8/PythonPDV/imagens/dolphin-logo-blue.jpg")
