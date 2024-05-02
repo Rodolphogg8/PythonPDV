@@ -3,7 +3,7 @@
 # Curriculo 
 https://sites.google.com/view/curriculorodolphoguilherme/p%C3%A1gina-inicial
 
-#LinkeIn
+# LinkeIn
 https://www.linkedin.com/in/rodolpho-guilherme-viana-624602ba/
 
 # Classe para produtos
