@@ -12,7 +12,7 @@ class Login:
         self.loginw.title("Login")
         width = 500
         height = 600
-        self.loginw.iconbitmap(r'/workspaces/PythonPDV/imagens/dolphin-logo-blue.jpg')
+        self.loginw.iconbitmap(r'Rodolphogg8/PythonPDV/imagens/dolphin-logo-blue.jpg')
         screen_width = self.loginw.winfo_screenwidth()
         screen_height = self.loginw.winfo_screenheight()
         x = (screen_width / 2) - (width / 2)
